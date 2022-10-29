@@ -15,7 +15,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCI7CT5uWyfMHMtbH-IV_6rg'
 global.ig = 'https://www.instagram.com/hikal_857/?hl=id'
-global.mygc = 'wa.me/6288973435903'
+global.mygc = 'wa.me/6285776555105'
 global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
 global.linkgrupss = "https://chat.whatsapp.com/GkZVA2qAXhKKJ6phCAVli8"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
@@ -27,8 +27,8 @@ global.botname = 'ZENU AIZAK' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = 'ZENU AIZAK' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288973435903']
-global.premium = ['6288973435903']
+global.owner = ['6285776555105']
+global.premium = ['6285776555105']
 global.packname = 'dibuat oleh Zenu Aizak'
 global.ownerr = ['ZENU AIZAK']
 global.author = 'ZENU AIZAK'
